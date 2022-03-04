@@ -1,0 +1,47 @@
+
+body
+{
+    background-image: url(photo.jpg);
+    background-size: cover;
+}
+.assign-1-shape-1
+{
+  width: 400px;
+  height: 400px;
+  background-color: white;
+  
+  background-image: url(c.jpg);
+  background-repeat: no-repeat;
+  background-size: 80%;
+}
+.assign-1-shape-2
+{
+    
+    width: 400px;
+    height: 400px;
+    background-color: white;
+  background-image: url(c.jpg);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 80%;
+}
+.assign-1-shape-3
+{
+    width: 400px;
+    height: 400px;
+    background-color: white;
+  background-image: url(c.jpg);
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: 95%;
+}
+.assign-1-shape-4
+{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    background-image: url(c.jpg);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 50%;
+}

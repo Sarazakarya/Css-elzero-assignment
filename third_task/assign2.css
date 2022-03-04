@@ -1,0 +1,49 @@
+.first
+{
+    background-color: rgb(48, 49, 49);
+    display: none;
+}
+.second
+{
+    background-color: rgb(48, 49, 49);
+    visibility: visible;
+}
+.third
+{
+    background-color: rgb(48, 49, 49);
+    visibility: hidden;
+}
+.fourth
+{
+    background-color: rgb(48, 49, 49);
+}
+.important1
+{
+    height: 30px;
+    background-color: rgb(193, 196, 198);
+}
+.importantp
+{
+    padding-left: 10px;
+    padding-top: 4px;
+}
+ .span1
+{
+    
+    color: rgb(255, 0, 0);
+}
+.important2
+{
+    height: 30px;
+    background-color: rgb(193, 196, 198);
+}
+.importantp2
+{
+    padding-left: 10px;
+    padding-top: 4px;
+}
+ .span2
+{
+    
+    color: rgb(44, 151, 142);
+}
