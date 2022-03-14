@@ -1,0 +1,41 @@
+.parent
+{
+    width: 1000px;
+}
+.one
+{
+    text-align: center;
+    background-color: rgb(181, 177, 177);
+    
+    margin-left: 12px;
+}
+.two div
+{
+    background-color: rgb(159, 156, 156);
+    text-align: center;
+    float: left;
+    width: calc( (100% - 45px) /3);
+    margin-left: 15px;
+}
+.clear
+{
+    clear: both;
+}
+.three div
+{
+    background-color: rgb(159, 156, 156);
+    text-align: center;
+    width: calc((100% - 30px) /2);
+    float: left;
+    margin-left: 15px; 
+    margin-top: 15px;
+}
+.four div
+{
+    background-color: rgb(159, 156, 156);
+    text-align: center;
+    width: calc((100% - 60px) /4);
+    float: left;
+    margin-left: 15px;
+    margin-top: 15px;
+}
