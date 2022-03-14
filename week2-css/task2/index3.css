@@ -1,0 +1,26 @@
+.one
+{
+    background-color: rgb(231, 231, 231);
+    width: 400px;
+    white-space: normal;
+    padding: 10px;
+}
+.two
+{
+    background-color: rgb(231, 231, 231);
+    width: 300px;
+    white-space: nowrap;
+    overflow: hidden;
+    padding: 10px;
+    margin-top: 10px;
+}
+.three
+{
+    background-color: rgb(231, 231, 231);
+    width: 300px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding: 10px;
+    margin-top: 10px;
+}

@@ -1,0 +1,25 @@
+div
+{
+    text-align: center;
+    background-color: rgb(34, 138, 142);
+    width: 200px;
+    height: 90px;
+    outline: darkgrey;
+    margin-left: 45%;
+    margin-top: 18%;
+    border-width: 0px 0px 10px 0px;
+    border-color:  rgb(27, 105, 108) ;
+    border-style: solid;
+    
+}
+h1
+{
+padding: 25px;
+text-transform: capitalize;
+}
+a
+{
+    
+  color: white;
+  text-decoration: none;
+}
