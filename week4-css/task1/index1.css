@@ -1,0 +1,26 @@
+.one
+{
+    background-color: rgb(219, 219, 219);
+    text-align: center;
+    height: 30px;
+    width: 300px;
+    padding: 10px;
+}
+div:empty
+{
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+    height: 30px;
+    width: 300px;
+    padding: 10px;
+    margin-top: 10px;
+}
+.three
+{
+    background-color: rgb(219, 219, 219);
+    text-align: center;
+    height: 30px;
+    width: 300px;
+    padding: 10px;
+    margin-top: 10px;
+}

@@ -1,0 +1,20 @@
+div
+{
+    background-color: #dbdbdb;
+    height: 30px;
+    width: 350px;
+    padding: 10px;
+    margin-left: 750px;
+   
+}
+
+span::before
+{
+    content: "1";
+    background-color: red;
+    padding: 12px;
+    position: relative;
+    right: 20px;
+    top: 5px;
+    color: white;
+}
