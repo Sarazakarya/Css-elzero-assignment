@@ -1,0 +1,67 @@
+div
+{
+    text-align: center;
+    border: 3px solid ;
+    border-color: red rgb(70, 164, 210) red rgb(70, 164, 210);
+    margin-top: 300px;
+    width: 700px;
+    margin-left: 500px;
+    text-align: center;
+    background-color: rgb(238, 238, 238);
+}
+p
+{
+    width: 400px;
+    white-space: normal;
+    margin-left: 150px;
+    position: relative;
+    top: 100px;
+    
+}
+ .top-left h3
+{
+    background-color: rgb(70, 164, 210);
+    height: 25px;
+    width: 50px;
+    position: relative;
+    bottom: 125px;
+    border-right: 3px solid red;
+    color: white;
+    right:20px;
+    margin-bottom: 20px;
+}
+.bottom-left h3
+{
+    background-color: rgb(70, 164, 210);
+    height: 25px;
+    width: 50px;
+    position: relative;
+    top: 120px;
+    margin-top: 10px;
+    color: white;
+    right:30px;
+    margin-bottom: 20px;
+    border-right: 3px solid red;
+}
+.top-right h3
+{
+    background-color: rgb(70, 164, 210);
+    height: 25px;
+    width: 50px;
+    position: relative;
+    color: white;
+    left:680px;
+    bottom: 213px;
+    border-left: 3px solid red;
+}
+.bottom-right h3
+{
+    background-color: rgb(70, 164, 210);
+    height: 25px;
+    width: 50px;
+    position: relative;
+    color: white;
+    left:680px;
+    top: 30px;
+    border-left: 3px solid red;
+}

@@ -1,0 +1,38 @@
+table
+{
+    width: 700px;
+    border-spacing: 5px;
+    
+}
+td
+{
+    text-align: center;
+    background-color: rgb(245, 245, 245);
+}
+thead td
+{
+    background-color: rgb(60, 60, 60);
+    text-align: center;
+    color: white
+}
+/* row 1*/
+
+.squre
+{
+  text-align: center;
+}
+.p1
+{
+    background-color: rgb(136, 177, 255);
+    height: 20px;
+    width: 50px;
+    display: inline-block;
+}
+.p2
+{
+    background-color: rgb(255, 136, 136);
+    height: 20px;
+    width: 50px;
+    margin: 10px;
+    display: inline-block;
+}

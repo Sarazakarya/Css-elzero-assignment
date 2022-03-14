@@ -1,0 +1,44 @@
+.one
+{
+    background-color: rgb(226, 226, 226);
+    width: 400px;
+    padding: 3px;
+    list-style: none;
+}
+.color li
+{
+    background-color: white;
+    width: 300px;
+    margin: 10px;
+}
+.two
+{
+    background-color: rgb(226, 226, 226);
+    width: 400px;
+    padding: 3px;
+    list-style: none;
+    margin-top: 10px;
+}
+.color2 li
+{
+    background-color: white;
+    width: 300px;
+    margin: 10px;
+    list-style-type: lower-roman;
+}
+.three
+{
+    background-color: rgb(226, 226, 226);
+    width: 400px;
+    padding: 3px;
+    list-style: none;
+    margin-top: 10px;
+}
+.color3 li
+{
+    background-color: white;
+    width: 300px;
+    margin: 10px;
+    list-style-position: inside;
+}
+ 
