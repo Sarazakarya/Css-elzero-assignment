@@ -1,0 +1,65 @@
+.parent
+{
+    background-color: rgb(229, 229, 229);
+    height: 300px;
+    width: 600px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    align-content: space-between;
+}
+:root
+{
+    --mainmarging:10px;
+    --maincolor:rgb(243, 69, 69);
+}
+.one
+{
+    background-color: var(--maincolor,black);
+    margin: var(--mainmarging);
+    width: 150px;
+    height: 30px;
+    color: white;
+}
+.two
+{
+    background-color: var(--maincolor,black);
+    margin: var(--mainmarging);
+    height: 30px;
+    width: 150px;
+    color: white;
+}
+.three
+{
+    background-color: var(--maincolor,black);
+    margin: var(--mainmarging);
+    width: 150px;
+    height: 30px;
+    color: white;
+}
+.four
+{
+    background-color: var(--maincolor);
+    margin: var(--mainmarging);
+    width: 150px;
+    height: 30px;
+    color: white;
+}
+.five
+{
+    background-color: var(--maincolor);
+    margin: var(--mainmarging);
+    width: 150px;
+    height: 30px;
+    color: white;
+}
+.six
+{
+    background-color: var(--maincolor);
+    margin: var(--mainmarging);
+    width: 150px;
+    height: 30px;
+    color: white;
+}
