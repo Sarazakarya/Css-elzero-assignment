@@ -1,0 +1,45 @@
+.parent
+{
+    background-color: rgb(233, 232, 232);
+    width: 600px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    text-align: center;
+}
+    :root
+{
+    --maincolor:rgb(56, 138, 111);
+    --mainmarging:20px;
+}
+.one
+{
+    background-color: var(--maincolor);
+    padding-top: 50px;
+    width: 40px;
+    height: 90px;
+    align-self: flex-end;
+    color: white;
+    margin: var(--mainmarging);
+}
+.two
+{
+    background-color: var(--maincolor);
+    width: 300px;
+    height: 30px;
+    padding: var(--mainmarging);
+    align-self: flex-start;
+    color: white;
+    margin: var(--mainmarging);
+}
+.three
+{
+    background-color: var(--maincolor);
+    padding-top: 50px;
+    width: 40px;
+    height: 90px;
+    align-self: flex-end;
+    color: white;
+    margin: var(--mainmarging);
+}
