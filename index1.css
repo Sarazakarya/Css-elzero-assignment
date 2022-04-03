@@ -1,0 +1,24 @@
+div
+{
+    background-color: rgb(234, 236, 236);
+    width: 270px;
+    height: 100px;
+    text-align: center;
+    transition-duration: .5s;
+}
+div:hover
+{
+    margin-top: 20px;
+}
+.one
+{
+    background-color: rgb(181, 181, 181);
+    width: 240px;
+    height: 30px;
+    transition-duration: 0.5s;
+    margin-left: 15px;
+}
+.one:hover
+{
+    margin-top: 20px;
+}
