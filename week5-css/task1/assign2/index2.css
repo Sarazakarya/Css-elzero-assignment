@@ -1,0 +1,18 @@
+.parent
+{
+    background-color: red;
+    color: white;
+    padding: 20px;
+    border: 1px solid blue;
+    font-size: 80px;
+    text-align: center;
+    display: none;
+}
+.child
+{
+    background-color: rgb(184, 184, 184);
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    font-size: 80px;
+    text-align: center;
+}
