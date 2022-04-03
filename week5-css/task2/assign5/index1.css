@@ -1,0 +1,57 @@
+.parent
+{
+    background-color: rgb(229, 229, 229);
+    width: 600px;
+    height: 300px;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    align-self: stretch;
+}
+:root
+{
+    --maincolor:rgb(71, 126, 140);
+     --mainmarging:20px;
+}
+.one
+{
+    background-color: rgb(233, 156, 33);
+    margin: var(--mainmarging);
+    width: 100px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 40px;
+    height: 100px;
+}
+.two
+{
+    background-color: rgb(141, 243, 69);
+    margin: var(--mainmarging);
+    width: 100px;
+    height: 100px;
+    padding-top: 40px;
+    color: rgb(255, 255, 255);
+    align-self: flex-end;
+}
+.three
+{
+    background-color: rgb(60, 19, 19);
+    margin: var(--mainmarging);
+    width: 100px;
+    color: rgb(255, 238, 238);
+    text-align: center;
+    padding-top: 40px;
+    height: 100px;
+}
+.four
+{
+    background-color: rgb(137, 70, 171);
+    margin: var(--mainmarging);
+    width: 100px;
+    height: 100px;
+    padding-top: 40px;
+    color: rgb(255, 255, 255);
+    align-self: flex-end;
+}
