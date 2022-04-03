@@ -1,0 +1,40 @@
+.blue
+{
+    background-color: rgb(94, 164, 221);
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    margin-top: 30px;
+    display: inline-block;
+    margin-right: 60px;
+
+}
+.orange
+{
+    background-color: orange;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    left: 20px;
+    position: absolute;  
+}
+.gray
+{
+    background-color: rgb(233, 233, 233);
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    left: 10px;
+    position: absolute;
+    color: orange;
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+}
+h2
+{
+    margin-left: 18px;
+}
+
+
