@@ -1,0 +1,29 @@
+*
+{
+  box-sizing: border-box;
+}
+.grid {
+  background-color: #ddd;
+  padding: 20px;
+  width: 800px;
+  height: 400px;
+  margin: 20px auto;
+  display: grid;
+  grid-template-columns: 20px auto auto 20px;
+  grid-template-rows: 1fr auto;
+  gap: 30px;
+}
+.grid div
+{
+  background-color: rgb(53, 53, 53);
+  
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+}
+.font
+{
+  padding-top: 100px;
+}
+
