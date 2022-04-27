@@ -1,0 +1,32 @@
+*
+{
+  box-sizing: border-box;
+}
+.grid {
+  background-color: #ddd;
+  padding: 20px;
+  margin: 20px auto;
+  width: 800px;
+  height: 400px;
+  display: grid;
+  grid-template-columns: 4;
+  grid-template-rows: 25px 25px 25px 25px ;
+  gap: 300px 20px;
+  
+}
+.grid div
+{
+  background-color: rgb(255, 0, 144);
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+.one
+{
+  grid-column: 1;
+}
+.two
+{
+  grid-column: 2;
+}
+
